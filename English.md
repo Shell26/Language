@@ -4,7 +4,7 @@
 
 ## Артикли
 
-![Image alt](https://github.com/Shell26/Languages/img/Articles1.jpg)
+![img.png](img/articles1.png)
 
 Ставятся перед сущ и служат аналогами прилагательных - описывают сущ, дают нам понять что слово явл сущ
 
@@ -12,7 +12,7 @@
 + Неопределенный A / AN
 + Нулевой предлог
 
-__Определенный предлог THE__
+1) __Определенный предлог THE__
 
 + Перед сущ, которые уже известны из контекста, ситуации или общих знаний. Повторное упоминание
 ```
@@ -37,7 +37,7 @@ I'm the luckiest person ever
 She is the happiest woman
 ```
 
-__Неопределенный A / AN__
+2) __Неопределенный A / AN__
 
 An ставится перед словом на гласный _звук_, не букву
 
@@ -56,7 +56,7 @@ I'll be there in an hour
 ```
 This is a beatiful building. Do you remember the building that we saw yesterday?
 ```
-__Нулевой артикль__
+3) __Нулевой артикль__
 
 + Сущ во мн.ч, когда говорим о какой-то обобщенной группе
 ```
@@ -72,7 +72,7 @@ I need water
 He never eats cheese
 ```
 
-__Исключения__: в современном англ. можно употребить некоторые неисчес. сущ с артиклем, если речь идет о конкретном обьеме и подразумеваается конкретное количество![img.png](img/articles1.png)
+__Исключения__: в современном англ. можно употребить некоторые неисчес. сущ с артиклем, если речь идет о конкретном обьеме и подразумеваается конкретное количество
 ```
 Can I get a water = Can I get (a glass of) water
 ```
@@ -97,9 +97,9 @@ Do you speak English?
 ```
 Germany is a part of the European Union
 ```
-Но если в названии страны есть Kingdom, Federation, Republic и прочие виды обьединений, то + the
+__Исключения__: Но если в названии страны есть Kingdom, Federation, Republic и прочие виды обьединений, то + the
 
-Если название страны во мн.ч, + the
+__Исключения__: Если название страны во мн.ч, + the
 ```
 The Philippines
 ```
@@ -116,10 +116,11 @@ Australia is both a country and a continent
 
 Чем меньше сектор предлога, тем меньше зона его влияния
 
-__Времени__
-![Image alt](https://github.com/Shell26/Languages/img/prepositions1.jpg)
+1) __Времени__
 
-_At_ - отвечает за часовые отрезки.
+![img.png](img/prepositions1.png)
+
+- __At__ - отвечает за часовые отрезки.
 ```
 At 7 o'clock
 At lunch
@@ -128,7 +129,7 @@ At the moment
 ```
 __Исключения:__ at night
 
-_On_ - ромежуток 1-3 дня, конкретные даты, дни недели
+- __On__ - промежуток 1-3 дня, конкретные даты, дни недели
 ```
 On Monday
 On August 12th
@@ -137,7 +138,7 @@ On the weekend
 ```
 __Исключения:__ on my lunch break, on time
 
-_In_ - недели, месяцы, годы, декады
+- __In__ - недели, месяцы, годы, декады
 ```
 In April
 In 2022
@@ -145,5 +146,59 @@ In 18th century
 In the future
 ```
 __Исключения:__ in the morning, in the evening, in the afternoon
+
+2) __Места__
+
+![img.png](img/prepositions2.png)
+
+- __At__ - малое место, точка, адрес, специфическая локация
+```
+At 221b Baker Street
+At the shop
+```
+
+- __On__ - протяженные местности, улицы, реки, пляж
+```
+On Baker Street
+On the beach
+On my street
+```
+
+- __In__ - страны, города, районы
+```
+In Russia
+In Moscow
+```
+
+3) __Расположение в пространстве__
+
+- __At__ - точка на местности
+```
+At the bus stop
+At the top of the hill
+At the corner
+```
+
+- __On__ - поверхность
+```
+On the table
+On the wall
+Tattoos on my body
+```
+
+- __In__ - для закрытых, ограниченных пространств
+```
+In the kitchen
+In the room
+In the fish tank
+```
+
+А так же для транспорта
+```
+In a car
+In a taxi
+```
+
+__Исключения:__ ride on a bike, motobike, horse - логично, потому что сидишь сверху, как на поверхности
 
 [к оглавлению](#Теория)
